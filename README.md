@@ -30,3 +30,11 @@ This project implements a **Convolutional Neural Network (CNN)** to detect **pne
 - OpenCV / PIL
 - Google Colab (optional, for Google Drive integration)
 
+  ## 📊 Model Evaluation
+
+- Accuracy
+- Precision, Recall, F1-score
+- Confusion matrix
+- Visual predictions
+
+
